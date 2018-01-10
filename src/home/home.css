@@ -1,0 +1,25 @@
+.authorization-form {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column wrap;
+    align-items: stretch;
+    width: 350px;
+    margin: 20px auto;
+    border: 1px solid #cbcbcb;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+table {
+    text-align: center;
+}
+
+thead {
+    background: darkgrey;
+    font-size: 18px;
+    font-weight: bold;
+}
+td {
+    border: 1px solid #777777;
+
+}
